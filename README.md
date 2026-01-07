@@ -36,3 +36,6 @@ Thanks again for your support, it is much appreciated! :pray:
 
 MIT. See `LICENSE` for more details.<br />
 Rocket icon credit to [Squid Ink](http://thesquid.ink).
+
+
+TEST
